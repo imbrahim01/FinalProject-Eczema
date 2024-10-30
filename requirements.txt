@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+matplotlib
+scipy
+scikit-image
+openpyxl  # diperlukan untuk menulis ke file Excel
